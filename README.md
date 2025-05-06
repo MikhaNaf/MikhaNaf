@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Hi there! I'm Mikha Naftali<br>📍 4th Semester Information System Student  <br>📚 Currently diving deep into React.js<br>🎯 Aspiring Fullstack Developer <br>🎲 Fun fact: I cant drinking coffee 😄  <br><br>🌱 I love building things for the web – from frontend interfaces to backend systems.  <br>💡 Always curious, always learning.  <br>📫 Let's connect!</p>
+<p align="left">✨ Hi there! I'm Mikha Naftali<br>📍 4th Semester Information System Student  <br>📚 Currently diving deep into React.js<br>🎯 Aspiring Fullstack Developer <br>🎲 Fun fact: I cant drink coffee 😄  <br><br>🌱 I love building things for the web – from frontend interfaces to backend systems.  <br>💡 Always curious, always learning.  <br>📫 Let's connect!</p>
 
 ###
 
